@@ -1,0 +1,21 @@
+.git
+.gitignore
+.tf
+.dockerignore
+.ebextensions
+.editorconfig
+.prettierrc
+Dockerfile
+compose.yml
+LICENSE
+README.md
+
+# Environments
+.env
+.env.example
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/

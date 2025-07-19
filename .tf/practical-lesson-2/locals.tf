@@ -1,0 +1,1 @@
+../full-env/locals.tf
